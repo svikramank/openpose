@@ -56,11 +56,6 @@ For further details, check [all released features](doc/released_features.md) and
 3. [Installation, Reinstallation and Uninstallation](#installation-reinstallation-and-uninstallation)
 4. [Quick Start](#quick-start)
 5. [Output](#output)
-6. [Speeding Up OpenPose and Benchmark](#speeding-up-openpose-and-benchmark)
-7. [Send Us Failure Cases and Feedback!](#send-us-failure-cases-and-feedback)
-8. [Authors and Contributors](#authors-and-contributors)
-9. [Citation](#citation)
-10. [License](#license)
 
 
 
